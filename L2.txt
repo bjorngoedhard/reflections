@@ -6,3 +6,5 @@ This adds files to the staging area
 Then commit by: git commit
 
 Skipping to lesson 3
+
+Test pull
