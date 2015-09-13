@@ -1,0 +1,21 @@
+Efficient programmer by version control?
+For it allows you to have multiple version of a file. Building a tree of alternatives
+
+Pros Cons manual commmit
+Pro that you can make more meaningfull commits
+Con that you suffer user error
+
+Multiple file save why
+Because the files depend on each other for the program to work
+
+Use git log and git diff to show history of files
+cd in a file with cd 'filename'
+git log
+git diff 'commit 1' 'commit 2'
+
+How does git help with change confidence
+always a neat way back
+
+
+Set up enviroment: 
+https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-3341718587
