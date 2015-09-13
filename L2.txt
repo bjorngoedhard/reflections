@@ -1,0 +1,8 @@
+Staging area different from working directory and repository?
+It is where files are staged before a commit. Stage between working directory (and to) repository.
+
+To start committing: git add 'filename 1' 'filename 2'
+This adds files to the staging area
+Then commit by: git commit
+
+Skipping to lesson 3
