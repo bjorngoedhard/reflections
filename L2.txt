@@ -8,3 +8,4 @@ Then commit by: git commit
 Skipping to lesson 3
 
 Test pull
+Test pull commit
